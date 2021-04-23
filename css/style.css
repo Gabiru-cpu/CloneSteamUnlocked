@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+}
+
+.icone {
+    font-size: 5.5rem;
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
